@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost/jquerymobile/appempleados/services/";
+var serviceURL = "http://marcheunpar.info/services/"; //"http://localhost/jquerymobile/appempleados/services/";
 
 var employees;
 
